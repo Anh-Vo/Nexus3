@@ -1,0 +1,1 @@
+repository.createMavenProxy("test", "https://repo1.maven.org/maven2/", 'default', false, org.sonatype.nexus.repository.maven.VersionPolicy.SNAPSHOT, org.sonatype.nexus.repository.maven.LayoutPolicy.STRICT)

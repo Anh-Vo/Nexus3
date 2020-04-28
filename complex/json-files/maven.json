@@ -1,0 +1,6 @@
+{
+    "name": "helloWorld",
+    "type": "groovy",
+    "content": "repository.createMavenProxy('HelloMaven') 
+    ",
+}
